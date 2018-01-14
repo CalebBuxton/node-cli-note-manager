@@ -5,10 +5,10 @@ A Nodejs CLI app that allows the user to create, view, and manage a list of item
 
 ###### Functionality
 **Commands:**
-add - Lets a user add a new note. *(requires a title and body argument)*
-list - Displays all current notes.
-read - Finds a specific note for the user. *(requires a title argument)*
-remove - Deletes a note from the list. *(requires a title argument)*
+- add - Lets a user add a new note. *(requires a title and body argument)*
+- list - Displays all current notes.
+- read - Finds a specific note for the user. *(requires a title argument)*
+- remove - Deletes a note from the list. *(requires a title argument)*
 
 ###### Installation
-You can clone this repo to your local machine, run `npm install` from the directory, and then run `node app.js --help` to view all of the commands to get the app running from the CLI. 
+You can clone this repo to your local machine, run `npm install` from the directory, and then run `node app.js --help` to view all of the commands to get the app running from the CLI.
